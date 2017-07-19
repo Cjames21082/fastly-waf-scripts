@@ -1,0 +1,7 @@
+source 'https://rubygems.org'
+
+ruby '2.4.1'
+
+gem 'fastly', '~> 1.2', '>= 1.2.1'
+gem 'httparty', '~> 0.13.7'
+gem 'tty-spinner'
